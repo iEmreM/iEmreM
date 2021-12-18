@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @iEmreM
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- Hi, My name is İsmail Emre
+- I’m interested in programming
+- I'm good at Python
+- I’m currently learning JavaScript
+- I live in Turkey
